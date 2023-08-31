@@ -19,7 +19,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
-Link to [Mock-up Dashboard]()
+Link to [Mock-up Dashboard](https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/mock%20up%20dashboard_atliq%20grands.png)
 
 
 ## Data Model
