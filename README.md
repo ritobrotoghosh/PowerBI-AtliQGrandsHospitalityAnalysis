@@ -19,7 +19,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
-Link to [Mock-up Dashboard](https://www.novypro.com/project/atliq-grands-hospitality-analysis-2)
+Link to [Mock-up Dashboard]()
 
 
 ## Data Model
