@@ -1,6 +1,6 @@
 ## AtliQ Grands Hospitality Analysis
 
-As part of the codebasics resume challenge, I have worked on this analysis project.
+The creation of this dashboard was undertaken as a component of the CodeBasics Resume Challenge.
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/atliq-grands-hospitality-analysis-2)
 
