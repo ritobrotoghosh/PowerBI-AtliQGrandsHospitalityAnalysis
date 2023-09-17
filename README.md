@@ -25,7 +25,7 @@ Link to [Mock-up Dashboard](https://github.com/ritobrotoghosh/PowerBI-AtliQGrand
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20-%20Data%20Model.png' height="400">
 </p>
 
 
