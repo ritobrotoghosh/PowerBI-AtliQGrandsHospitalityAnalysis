@@ -32,7 +32,11 @@ Link to [Mock-up Dashboard](https://github.com/ritobrotoghosh/PowerBI-AtliQGrand
 ## Overall Analysis View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20Overall%20Analysis.png' width="600">
+</p>
+
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20-%20Overall%20Analysis%20Pt%202.png' width="600">
 </p>
 
 ## Monthly Analysis View
