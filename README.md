@@ -32,13 +32,13 @@ Link to [Mock-up Dashboard](https://github.com/ritobrotoghosh/PowerBI-AtliQGrand
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src='' width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20-%20Monthly%20Analysis.png' width="600">
 </p>
 
 ## Some Important insights from the Dashboard
